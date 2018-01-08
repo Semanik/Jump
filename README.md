@@ -1,2 +1,2 @@
 # Jump
-SmarKit
+SmartKit
